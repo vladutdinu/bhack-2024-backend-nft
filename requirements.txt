@@ -14,3 +14,5 @@ torchvision
 Pillow
 transformers
 chromadb
+
+scikit-learn
